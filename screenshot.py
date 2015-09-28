@@ -11,8 +11,6 @@ url = "http://api.imgur.com/2/upload.json"
 os.system('')
 
 filename = datetime.now().strftime('%Y-%m-%d%H:%M:%S')
-
-
 t = filename+'.png'
 
 print t
