@@ -2,7 +2,6 @@ import base64
 import requests
 import os
 from datetime import datetime
-import os
 import webbrowser
 os.getcwd()
 
